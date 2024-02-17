@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+nav {
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #5247e9;
+    padding: 10px 20px;
+    margin: 0 10px;
+    transition: background-color 0.3s ease;
+    font-size: 25px;
+    display: inline;
+}
+
+body{
+    margin: 5px 20px 5px 20px;
+}
+
+table{
+    padding: 10px;
+    border-color: purple;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px 8px 5px 8px;
+}
+
+#t1 {
+    background-color: rgb(214, 151, 151);
+}
+
+#introducion{
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+}
+
+header {
+    color:purple;
+    text-transform: capitalize;
+    text-shadow: -2px 3px 5px grey;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    display: block;
+}
+
+h2 {
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-align: left;
+    font-size: 35px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+#Eslogan {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#t2{
+    background-color: rgb(207, 221, 238);
+}
+
+#fotos{
+    text-align: center;
+}
+
+#iz{
+    text-align: left;
+}
+
+#center{
+    text-align: center;
+}
+
+#right{
+    text-align: right;
+}
+#t3{
+    border-width: 0px;
+}
+
+#t4{
+    border-width: 0px;
+}
+
+#porrealizar{
+    text-align: left;
+    font-size: 25px;
+}
+
+#realizados{
+    text-align: left;
+    font-size: 25px;
+}
+
+main {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+}
+
+#t5{
+    text-align: center;
+    border-width: 0px;
+}
+
+footer {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+    background-image: url(IMG_1219.jpeg);
+}
